@@ -1,0 +1,16 @@
+var name = "Abhi";
+var school = "Red Rose Public School";
+var grade = "A";
+var section = "C";
+var rollno = 16;
+var marks1 = 95;
+var marks2 = 98;
+var marks3 = 92;
+console.log("Name: "+name);
+console.log("School Name:"+school);
+console.log("Grade: "+grade);
+console.log("section: "+section);
+console.log("rollno: "+rollno);
+console.log("Hindi: "+marks1);
+console.log("English: "+marks2);
+console.log("Mathematics: "+marks3);
