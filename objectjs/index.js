@@ -1,0 +1,1 @@
+  console.log(i+"-"+(i+(K)-1));
